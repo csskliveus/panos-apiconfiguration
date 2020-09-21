@@ -1,0 +1,1 @@
+https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-cli-quick-start/use-the-cli/load-configurations/load-a-partial-configuration

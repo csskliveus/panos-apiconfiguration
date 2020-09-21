@@ -1,0 +1,1 @@
+https://docs.paloaltonetworks.com/pan-os/8-1/pan-os-cli-quick-start/use-the-cli/load-configurations/load-a-partial-configuration/xpath-location-formats-determined-by-device-configuration.html#id34238ccb-2aa0-43d7-a43a-034ee6adf695
